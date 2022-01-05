@@ -1,1 +1,2 @@
-# Algo_challenge
+# Fun Algo challenge
+ 
